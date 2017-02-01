@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;25e6b56ef2b4d709d124-89f92723dfaf5855ca1d84edbbc78beb4fc91e30&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../bc" />
+      <root url="file://$PROJECT_DIR$/../../math1" />
+      <root url="file://$PROJECT_DIR$/../../upload" />
+      <root url="file://$PROJECT_DIR$/../../bootstrap" />
+      <root url="file://$PROJECT_DIR$/../../public" />
+      <root url="file://$PROJECT_DIR$/../../sengen.com" />
+      <root url="file://$PROJECT_DIR$/../../my-app" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../aa" />
+      <root url="file://$PROJECT_DIR$/../../Linga" />
+      <root url="file://$PROJECT_DIR$/../../finalbackup" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../categoryimg" />
+      <root url="file://$PROJECT_DIR$/../../dropdown" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../.git" />
+      <root url="file://$PROJECT_DIR$/../../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../ardhika.com" />
+      <root url="file://$PROJECT_DIR$/../../LingaPOSTS" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../bc" />
+      <root url="file://$PROJECT_DIR$/../../math1" />
+      <root url="file://$PROJECT_DIR$/../../upload" />
+      <root url="file://$PROJECT_DIR$/../../bootstrap" />
+      <root url="file://$PROJECT_DIR$/../../public" />
+      <root url="file://$PROJECT_DIR$/../../sengen.com" />
+      <root url="file://$PROJECT_DIR$/../../my-app" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../aa" />
+      <root url="file://$PROJECT_DIR$/../../Linga" />
+      <root url="file://$PROJECT_DIR$/../../finalbackup" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../categoryimg" />
+      <root url="file://$PROJECT_DIR$/../../dropdown" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../.git" />
+      <root url="file://$PROJECT_DIR$/../../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../ardhika.com" />
+      <root url="file://$PROJECT_DIR$/../../LingaPOSTS" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
